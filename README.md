@@ -3,7 +3,7 @@ Discover Your Inner Beyoncé. Which Beyoncé Album Are You?
 A quiz to that tells you which Beyoncé album best represents you. 
 *description*
 
-[deployed url](http://url-if-deployed-here)
+[deployed url](https://dartmouth-cs52-21s.github.io/lab2-melissavalencia/)
 
 ## What Worked Well
 I was able to implement the flip cards using a w3school tutorial. They were surprisingly easy to work with. I was able to add images and text to them. The flex boxes allowed for them to be responsive as well!
