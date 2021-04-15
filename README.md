@@ -18,5 +18,5 @@ CSS Transitions (flip-card) and added some complexity to calculations (some coun
 Screenshots showing when one choice is clicked, flipped card when hovered, error message, and result.
 <img width="1425" alt="Screen Shot 2021-04-14 at 8 38 16 PM" src="https://user-images.githubusercontent.com/72226780/114810773-a45ed900-9d61-11eb-8e4d-669e9df19812.png">
 <img width="1396" alt="Screen Shot 2021-04-14 at 8 51 26 PM" src="https://user-images.githubusercontent.com/72226780/114811595-39160680-9d63-11eb-964d-a82e83a4de19.png">
-<img width="1422" alt="Screen Shot 2021-04-14 at 8 39 00 PM" src="https://user-images.githubusercontent.com/72226780/114810785-aaed5080-9d61-11eb-99fe-399584f00e03.png">
 <img width="1439" alt="Screen Shot 2021-04-14 at 8 38 35 PM" src="https://user-images.githubusercontent.com/72226780/114810794-ae80d780-9d61-11eb-9553-f6cdd93bbbc7.png">
+<img width="1422" alt="Screen Shot 2021-04-14 at 8 39 00 PM" src="https://user-images.githubusercontent.com/72226780/114810785-aaed5080-9d61-11eb-99fe-399584f00e03.png">
