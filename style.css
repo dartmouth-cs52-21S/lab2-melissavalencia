@@ -205,6 +205,10 @@ input[type='button']:hover{
     align-self: center;
 }
 
+.submit{
+    align-self: center;
+}
+
 #submit{
     align-self: center;
 }
